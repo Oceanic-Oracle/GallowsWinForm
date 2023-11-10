@@ -1,0 +1,4 @@
+C:\Users\Руслан\Desktop\GallowsWinForm\x64\Debug\GallowsWinForm.vcxproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\GallowsWinForm\x64\Debug\GallowsWinForm.exe
+C:\Users\Руслан\Desktop\GallowsWinForm\x64\Debug\GallowsWinForm.Gall.resources
+C:\Users\Руслан\Desktop\GallowsWinForm\x64\Debug\GallowsWinForm.vcxproj.GenerateResource.cache
